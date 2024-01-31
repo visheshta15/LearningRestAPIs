@@ -1,0 +1,95 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "Harry Potter",
+      "content": "good movie"
+    },
+    {
+      "id": "2",
+      "name": "Charlie Chaplean",
+      "content": "great actor"
+    },
+    {
+      "id": "3",
+      "name": "Hena Montana",
+      "content": "good singer"
+    },
+    {
+      "id": "4",
+      "name": "json momoya",
+      "content": "aquaman"
+    },
+    {
+      "id": 5,
+      "name": "shinchan",
+      "content": "cartoon"
+    },
+    {
+      "id": "6",
+      "name": "iron man",
+      "content": "marvel"
+    },
+    {
+      "id": "7",
+      "name": "captain america",
+      "content": "marvel"
+    },
+    {
+      "id": "8",
+      "name": "green latent",
+      "content": "bad movie"
+    },
+    {
+      "id": "9",
+      "name": "hghgj",
+      "content": "fghg"
+    },
+    {
+      "id": "10",
+      "name": "jacks sprrow",
+      "content": "sailor"
+    },
+    {
+      "id": "11",
+      "name": "john sena",
+      "content": "wrestler",
+      "createdAt": "Wed Jan 31 2024 12:02:35 ",
+      "updatedAt": ""
+    },
+    {
+      "id": "12",
+      "name": "Barak Obama",
+      "content": "President",
+      "createdAt": "Wed Jan 31 2024 13:18:28 ",
+      "updatedAt": ""
+    }
+  ],
+  "languages": [
+    {
+      "id": "1",
+      "skill": "product manager",
+      "user": "aman"
+    }
+  ],
+  "professions": [
+    {
+      "id": "1",
+      "work": "web developer"
+    },
+    {
+      "id": "2",
+      "work": "painter"
+    },
+    {
+      "id": "3",
+      "work": "singer"
+    },
+    {
+      "work": "comedian",
+      "createdAt": "Wed Jan 31 2024 12:02:59 ",
+      "updatedAt": "",
+      "id": "kKjRqgQ"
+    }
+  ]
+}
